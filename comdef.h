@@ -18,8 +18,8 @@
 
 /* main project headers */
 #include <GL/gl.h>
-#include <GL/glx.h>
 #include <GL/glu.h>
+#include <GL/glut.h>
 
 /* redefining main C types */
 typedef void VOID;
