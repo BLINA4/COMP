@@ -21,6 +21,9 @@
 #include <GL/glu.h>
 #include <GL/glut.h>
 
+/* 'bool' type header */
+#include <stdbool.h>
+
 /* redefining main C types */
 typedef void VOID;
 typedef int INT;
@@ -33,6 +36,7 @@ typedef short SHORT;
 typedef unsigned short USHORT;
 typedef long LONG;
 typedef unsigned long ULONG;
+typedef bool BOOL;
 
 #endif /* __comdef_h_ */
 

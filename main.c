@@ -1,19 +1,20 @@
- /***************************************************************
-  * Copyleft 2020
-  *   Junior C programmers present
-  ***************************************************************/
+/***************************************************************
+ * Copyleft 2020
+ *   Junior C programmers present
+ ***************************************************************/
  
- /* FILE NAME   : main.c
-  * PURPOSE     : 2D game project.
-  *               Main file of project.
-  * PROGRAMMER  : Andrey Shayda, Petr Petrovich, Ignat Krisow.
-  * LAST UPDATE : 30.07.2020.
-  *
-  * All parts of this file may be changed without agreement
-  *   of programmer if you give credits to author.
-  */
+/* FILE NAME   : main.c
+ * PURPOSE     : 2D game project.
+ *               Main file of project.
+ * PROGRAMMER  : Andrey Shayda, Petr Petrovich, Ignat Krisow.
+ * LAST UPDATE : 30.07.2020.
+ *
+ * All parts of this file may be changed without agreement
+ *   of programmer if you give credits to author.
+ */
 
 #include "comdef.h"
+#include "units.h"
 
 /* Main display function.
  * ARGUMENTS: None.
